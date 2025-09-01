@@ -1,0 +1,29 @@
+{
+  "plants": [
+    {
+      "id": "1",
+      "name": "Aloe",
+      "image": "./imagess/aloe.png",
+      "price": 15.99
+    },
+    {
+      "id": "2",
+      "name": "Roses",
+      "image": "./imagess/roses.png",
+      "price": 25.98
+    },
+    {
+      "id": "3",
+      "name": "Sunflower",
+      "image": "./imagess/sunflower.png",
+      "price": 12.5
+    },
+    {
+      "id": "4",
+      "name": "Hibiscus",
+      "image": "./imagess/hibiscus.png",
+      "price": 18.75
+    }
+ 
+  ]
+}
