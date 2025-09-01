@@ -27,19 +27,35 @@ It allows users to:
 
 ---
 
-## 📂 Project Structure
-Phase2/CodeChallenge2/
-│── src/
-│ ├── App.jsx
-│ ├── App.css
-│ ├── PlantList.jsx
-│ ├── PlantCard.jsx
-│ ├── NewPlantForm.jsx
-│ ├── Search.jsx
-│── db.json # JSON Server database
-│── package.json
-│── README.md
+
 ---
+
+## ⚡ Getting Started
+
+### 1️⃣ Clone the repository
+```bash
+git clone git@github.com:wayneOhito234/Plantsy-CodeChallenge2.git
+cd Plantsy-CodeChallenge2
+```
+### 2. Install Dependencies
+```bash
+npm install
+```
+### 3. Run JSON Server
+```bash
+npx json-server --watch db.json --port 6001
+```
+### 4.Run the Front-End
+``` bash
+npm start
+```
+The app will open at http://localhost:5173
+
+### 5.License
+This project is open-source and available under the MIT License.
+
+
+
 
 
 
