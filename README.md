@@ -28,4 +28,18 @@ It allows users to:
 ---
 
 ## 📂 Project Structure
+Phase2/CodeChallenge2/
+│── src/
+│ ├── App.jsx
+│ ├── App.css
+│ ├── PlantList.jsx
+│ ├── PlantCard.jsx
+│ ├── NewPlantForm.jsx
+│ ├── Search.jsx
+│── db.json # JSON Server database
+│── package.json
+│── README.md
+---
+
+
 
