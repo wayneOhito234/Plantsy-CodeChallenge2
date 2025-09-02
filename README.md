@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌱 Plantsy Admin
 
 Plantsy Admin is a simple **React-based frontend application** for managing a list of plants.  
@@ -58,4 +59,7 @@ This project is open-source and available under the MIT License.
 
 
 
+
+=======
+>>>>>>> 609d9c8 (Commit 2.0)
 
